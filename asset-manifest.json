@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ResponsiveTooltip_Reactjs/static/css/main.f6d5b6a3.css",
+    "main.js": "/ResponsiveTooltip_Reactjs/static/js/main.e6f2ddf4.js",
+    "index.html": "/ResponsiveTooltip_Reactjs/index.html",
+    "main.f6d5b6a3.css.map": "/ResponsiveTooltip_Reactjs/static/css/main.f6d5b6a3.css.map",
+    "main.e6f2ddf4.js.map": "/ResponsiveTooltip_Reactjs/static/js/main.e6f2ddf4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f6d5b6a3.css",
+    "static/js/main.e6f2ddf4.js"
+  ]
+}
